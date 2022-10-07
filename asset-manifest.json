@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/20-react-portfolio/aboutme/static/css/main.7b209897.css",
-    "main.js": "/20-react-portfolio/aboutme/static/js/main.f18749b2.js",
-    "static/js/787.51972ac4.chunk.js": "/20-react-portfolio/aboutme/static/js/787.51972ac4.chunk.js",
-    "static/media/currencyconverter.png": "/20-react-portfolio/aboutme/static/media/currencyconverter.0d3667452855413e5b14.png",
-    "static/media/onlyblogs.png": "/20-react-portfolio/aboutme/static/media/onlyblogs.ee07d8175911c277b528.png",
-    "static/media/slack-overflow.png": "/20-react-portfolio/aboutme/static/media/slack-overflow.0e0d521dbe9329b2d89e.png",
-    "static/media/homepage.png": "/20-react-portfolio/aboutme/static/media/homepage.a1e1848e9b356bb860c1.png",
-    "static/media/passwordgenerator.png": "/20-react-portfolio/aboutme/static/media/passwordgenerator.eb1e5c790204eae0f654.png",
-    "static/media/colorflipper.png": "/20-react-portfolio/aboutme/static/media/colorflipper.e98f0b816e323b10f8a1.png",
-    "index.html": "/20-react-portfolio/aboutme/index.html",
-    "main.7b209897.css.map": "/20-react-portfolio/aboutme/static/css/main.7b209897.css.map",
-    "main.f18749b2.js.map": "/20-react-portfolio/aboutme/static/js/main.f18749b2.js.map",
-    "787.51972ac4.chunk.js.map": "/20-react-portfolio/aboutme/static/js/787.51972ac4.chunk.js.map"
+    "main.css": "/20-react-portfolio/static/css/main.7b209897.css",
+    "main.js": "/20-react-portfolio/static/js/main.b44d91b7.js",
+    "static/js/787.51972ac4.chunk.js": "/20-react-portfolio/static/js/787.51972ac4.chunk.js",
+    "static/media/currencyconverter.png": "/20-react-portfolio/static/media/currencyconverter.0d3667452855413e5b14.png",
+    "static/media/onlyblogs.png": "/20-react-portfolio/static/media/onlyblogs.ee07d8175911c277b528.png",
+    "static/media/slack-overflow.png": "/20-react-portfolio/static/media/slack-overflow.0e0d521dbe9329b2d89e.png",
+    "static/media/homepage.png": "/20-react-portfolio/static/media/homepage.a1e1848e9b356bb860c1.png",
+    "static/media/passwordgenerator.png": "/20-react-portfolio/static/media/passwordgenerator.eb1e5c790204eae0f654.png",
+    "static/media/colorflipper.png": "/20-react-portfolio/static/media/colorflipper.e98f0b816e323b10f8a1.png",
+    "index.html": "/20-react-portfolio/index.html",
+    "main.7b209897.css.map": "/20-react-portfolio/static/css/main.7b209897.css.map",
+    "main.b44d91b7.js.map": "/20-react-portfolio/static/js/main.b44d91b7.js.map",
+    "787.51972ac4.chunk.js.map": "/20-react-portfolio/static/js/787.51972ac4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7b209897.css",
-    "static/js/main.f18749b2.js"
+    "static/js/main.b44d91b7.js"
   ]
 }
