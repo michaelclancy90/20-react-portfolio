@@ -7,20 +7,21 @@ import AboutMe from './components/pages/AboutMe.js';
 import Contact from './components/pages/Contact.js';
 import Portfolio from './components/pages/Portfolio.js';
 import Resume from './components/pages/Resume.js';
+import Navigation from './components/Navigation.js';
 
 function App() {
   return (
     <div className='App'>
-      <Header />
       <Router>
+        <Navigation />
         <Routes>
           <Route path='/' element={<AboutMe />} />
           <Route path='/Portfolio' element={<Portfolio />} />
           <Route path='/Contact' element={<Contact />} />
           <Route path='/Resume' element={<Resume />} />
         </Routes>
+        <Footer />
       </Router>
-      <Footer />
     </div>
   );
 }
